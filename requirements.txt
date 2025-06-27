@@ -1,0 +1,7 @@
+setuptools>=65.0.0
+wheel
+opencv-python
+numpy
+wmi
+pystray
+pillow
